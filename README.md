@@ -19,7 +19,7 @@ HOW?
 1. To run
    * react-native start
 2. To build
-   * react-native init <nama project>
+   * react-native init (nama project)
 3. To stop
    * Ctrl + c
 
